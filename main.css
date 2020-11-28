@@ -35,7 +35,7 @@ html,body{
 }
 
 .first-section .first-img{
-    background-image: url("./first-img.jpg");
+    background-image: url("./imgs/first-img.jpg");
     background-position: center;
     height: 25rem;
     float: left;
