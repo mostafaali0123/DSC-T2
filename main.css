@@ -87,13 +87,13 @@ html,body{
 
 .second-section .three-boxes .s2-img{
     width: 100%;
-    height: 180px;
-    border-radius: 0.3em;
+    height: 200px;
     padding-bottom: 30px;
+    border-radius: 0.3em;
 }
 
 .second-section .three-boxes p{
-    padding: 5 30 30 30;
+    padding: 5 41 30 20;
     font-size: 14px;
     font-family: 'Castoro', serif;
 }
@@ -109,7 +109,7 @@ html,body{
 }
 
 .fa-heart-o, .fa-comment-o{
-    padding: 6 15 30 20;
+    padding: 6 15 30 21;
     font-weight: bold;
     
 }
